@@ -11,6 +11,7 @@ export default new Router({
     path:'/thenewindex',
     component:thenewindex
   }
+  //hello .just a git test
     // {
     //   path:'/',
     //   name:'Login',
